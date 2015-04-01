@@ -1,3 +1,9 @@
+//Author : Alishba Idris
+//Reg No : 01044
+//Date : 01/04/2015.
+
+//Local Spider
+
 package lab6;
 
 import java.util.*;
